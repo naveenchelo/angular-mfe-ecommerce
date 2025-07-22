@@ -22,11 +22,13 @@
     "@angular/router": "^20.0.6",
     "@angular/ssr": "^20.0.5",
     "@ionic/angular-toolkit": "^12.2.0",
+    "@primeuix/themes": "^1.2.1",
     "@softarc/native-federation-node": "^2.0.10",
     "bootstrap": "^5.3.7",
     "cors": "^2.8.5",
     "es-module-shims": "^1.5.12",
     "express": "^4.18.2",
+    "primeng": "^20.0.0-rc.1",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.15.1"
